@@ -220,6 +220,7 @@ background-clip: text;
     transition: 0.8sec ease;
     visibility: hidden;
     font-size: 45px;
+    text-align: center;
 }
 .funny-gaming-photo div:hover .middle {
   
