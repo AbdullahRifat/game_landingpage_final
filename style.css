@@ -238,14 +238,15 @@ background-clip: text;
     align-items: center;
     justify-content: space-evenly;
     gap: 200px;
+    padding-bottom: 5rem;
 }
 .play-instantly-photo,.play-instantly-details{
     position: relative;
-    width:400px;
+    width:500px;
 }
 .play-instantly-photo1{
     position: relative;
-   max-width: 90%;
+   max-width: 100%;
     z-index: 1;
 }.play-instantly-photo2{
     position: absolute;
@@ -474,7 +475,7 @@ footer .nav-logo h3{
    grid-template-columns: 1fr;
 }
 .funny-gaming-photo div{
-    width: 250px;
+    width: 230px;
     margin: auto;
     text-align: center;
     font-size: 1rem;
@@ -494,17 +495,13 @@ footer .nav-logo h3{
 }
 .play-instantly-photo{
     position: relative;
-    width:250px;
+    width:300px;
 }
 .play-instantly-details{
     width: 80vw;
     margin: auto;
 }
 
-.play-instantly-photo1{
-   
-    width:300px;
-}
 
 /* games */
 .games div{
